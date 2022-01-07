@@ -62,8 +62,8 @@ module.exports = appInfo => {
     },
   };
   config.wx = {
-    appid: 'wx725a810d3b6f5c98',
-    appSecret: '51f6e82eed664f9cd9dac154be64f6e0',
+    appid: 'wxa76a4ca8d6a7df62',
+    appSecret: 'ed12dd837528575dc6a49d7b2daf9bec',
   };
   // EGG配置跨域 在config.{ env }.js中配置，注意配置覆盖的问题
   config.security = {
